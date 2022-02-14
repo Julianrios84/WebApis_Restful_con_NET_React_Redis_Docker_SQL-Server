@@ -1,0 +1,36 @@
+D:\Student\Udemy\Net\Market\BusinessLogic\bin\Debug\net5.0\BusinessLogic.deps.json
+D:\Student\Udemy\Net\Market\BusinessLogic\bin\Debug\net5.0\BusinessLogic.runtimeconfig.json
+D:\Student\Udemy\Net\Market\BusinessLogic\bin\Debug\net5.0\BusinessLogic.runtimeconfig.dev.json
+D:\Student\Udemy\Net\Market\BusinessLogic\bin\Debug\net5.0\BusinessLogic.dll
+D:\Student\Udemy\Net\Market\BusinessLogic\bin\Debug\net5.0\ref\BusinessLogic.dll
+D:\Student\Udemy\Net\Market\BusinessLogic\bin\Debug\net5.0\BusinessLogic.pdb
+D:\Student\Udemy\Net\Market\BusinessLogic\bin\Debug\net5.0\Core.dll
+D:\Student\Udemy\Net\Market\BusinessLogic\bin\Debug\net5.0\Core.pdb
+D:\Student\Udemy\Net\Market\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\Student\Udemy\Net\Market\BusinessLogic\obj\Debug\net5.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Student\Udemy\Net\Market\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\Student\Udemy\Net\Market\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfo.cs
+D:\Student\Udemy\Net\Market\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Student\Udemy\Net\Market\BusinessLogic\obj\Debug\net5.0\BusinessLogic.dll
+D:\Student\Udemy\Net\Market\BusinessLogic\obj\Debug\net5.0\ref\BusinessLogic.dll
+D:\Student\Udemy\Net\Market\BusinessLogic\obj\Debug\net5.0\BusinessLogic.pdb
+D:\Student\Udemy\Net\Market\BusinessLogic\obj\Debug\net5.0\BusinessLogic.genruntimeconfig.cache
+D:\Student\Udemy\Net\Market\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.CopyComplete
+D:\Student\Cursos Udemy\WebApis_Restful_con_NET_React_Redis_Docker_SQL Server\Backend\BusinessLogic\bin\Debug\net5.0\BusinessLogic.deps.json
+D:\Student\Cursos Udemy\WebApis_Restful_con_NET_React_Redis_Docker_SQL Server\Backend\BusinessLogic\bin\Debug\net5.0\BusinessLogic.runtimeconfig.json
+D:\Student\Cursos Udemy\WebApis_Restful_con_NET_React_Redis_Docker_SQL Server\Backend\BusinessLogic\bin\Debug\net5.0\BusinessLogic.runtimeconfig.dev.json
+D:\Student\Cursos Udemy\WebApis_Restful_con_NET_React_Redis_Docker_SQL Server\Backend\BusinessLogic\bin\Debug\net5.0\BusinessLogic.dll
+D:\Student\Cursos Udemy\WebApis_Restful_con_NET_React_Redis_Docker_SQL Server\Backend\BusinessLogic\bin\Debug\net5.0\ref\BusinessLogic.dll
+D:\Student\Cursos Udemy\WebApis_Restful_con_NET_React_Redis_Docker_SQL Server\Backend\BusinessLogic\bin\Debug\net5.0\BusinessLogic.pdb
+D:\Student\Cursos Udemy\WebApis_Restful_con_NET_React_Redis_Docker_SQL Server\Backend\BusinessLogic\bin\Debug\net5.0\Core.dll
+D:\Student\Cursos Udemy\WebApis_Restful_con_NET_React_Redis_Docker_SQL Server\Backend\BusinessLogic\bin\Debug\net5.0\Core.pdb
+D:\Student\Cursos Udemy\WebApis_Restful_con_NET_React_Redis_Docker_SQL Server\Backend\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\Student\Cursos Udemy\WebApis_Restful_con_NET_React_Redis_Docker_SQL Server\Backend\BusinessLogic\obj\Debug\net5.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Student\Cursos Udemy\WebApis_Restful_con_NET_React_Redis_Docker_SQL Server\Backend\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\Student\Cursos Udemy\WebApis_Restful_con_NET_React_Redis_Docker_SQL Server\Backend\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfo.cs
+D:\Student\Cursos Udemy\WebApis_Restful_con_NET_React_Redis_Docker_SQL Server\Backend\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Student\Cursos Udemy\WebApis_Restful_con_NET_React_Redis_Docker_SQL Server\Backend\BusinessLogic\obj\Debug\net5.0\BusinessLogic.dll
+D:\Student\Cursos Udemy\WebApis_Restful_con_NET_React_Redis_Docker_SQL Server\Backend\BusinessLogic\obj\Debug\net5.0\ref\BusinessLogic.dll
+D:\Student\Cursos Udemy\WebApis_Restful_con_NET_React_Redis_Docker_SQL Server\Backend\BusinessLogic\obj\Debug\net5.0\BusinessLogic.pdb
+D:\Student\Cursos Udemy\WebApis_Restful_con_NET_React_Redis_Docker_SQL Server\Backend\BusinessLogic\obj\Debug\net5.0\BusinessLogic.genruntimeconfig.cache
+D:\Student\Cursos Udemy\WebApis_Restful_con_NET_React_Redis_Docker_SQL Server\Backend\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.CopyComplete
